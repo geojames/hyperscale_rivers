@@ -11,6 +11,10 @@
 3. Python should display a Matplotlib window with the graph
 4. There are also two outputs of the result in PNG and SVG formats.
 
+Please Cite:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3382267.svg)](https://doi.org/10.5281/zenodo.3382267)
+Dietrich, James T., Patrice Carbonneau. 2019. Hyperscale Rivers v1.0. DOI: 10.5281/zenodo.3382267 (as developed on Github)
+
 #### Background
 Description taken from my paper:
 Dietrich JT. 2016. Riverscape mapping with helicopter-based                     Structure-from-Motion photogrammetry. Geomorphology 252 : 114–157. DOI: [10.1016/j.geomorph.2015.05.008](http://doi.org/10.1016/j.geomorph.2015.05.008)
