@@ -18,7 +18,7 @@ Dietrich JT. 2016. Riverscape mapping with helicopter-based                     
 >These pyramidal graphs illustrate the statistical relationship of two river variables across multiple spatial scales using a moving window approach. At the top of each graph, the window size encompasses all sample points from the river (n). The window size of the second row is n − 2, so the row has three
 data points. The third row has a window size of n − 4, generating five data points. This continues with an ever-shrinking window size to the bottom row (window size = 2) where pairs of sample points are being compared (see Fig. 3 for an illustration of this process). The Y-axis of each graph shows the window sizes from largest at the top to smallest at the bottom. The X-axis provides the relative position of each sample in the downstream direction, upstream on the left. A variety of statistical measures/tests can be incorporated into the hyperscale framework, including the coefficient of determination (R2) for a given regression equation or a variety of correlation measures (e.g., Pearson product–moment, Spearman rank-order, or Kendall's τ). For this analysis, I examined the correlation between pairs of variables using the Pearson correlation coefficient, testing for statistical significance at a 99% confidence interval (p = 0.01). This type of analysis can illustrate patterns not always visible with other types of reach or segment scale analysis.
 
-![Imgur](https://i.imgur.com/CPeiWrDl.png)
+![Imgur](https://i.imgur.com/2RnPjGwl.png)
 *Building hyperscale graphs*
 
 ![Imgur](https://i.imgur.com/CPeiWrDl.png))
